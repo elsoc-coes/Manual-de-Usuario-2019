@@ -1,0 +1,24 @@
+h1:present Presentación
+h1:dis_ins Diseño del Instrumento
+h2:proc-dis Proceso de Diseño
+h2:nueva-preg Preguntas nuevas incorporadas a ELSOC en ola 4
+tab:nuevotemas \\label{tab:difcuest}Preguntas nuevas incorporadas en ELSOC ola 4 (2019)
+tab:noincluidas \\label{tab:difcuest} Preguntas NO incluidas en ELSOC ola 4  (2019) que sí se preguntaron en la ola anterior (2018)
+tab:temasconceptos \\label{tab:hogares}Temas y conceptos medidos en ELSOC Ola 4 (2019)
+h2:ficha-tecnica Ficha Técnica
+h1:diseño-muestral-del-estudio Diseño Muestral del Estudio
+h2:preparación-del-marco-muestral Preparación del Marco Muestral
+h1:implem_encuest Implementación de la Encuesta
+h2:estrategia-de-seguimiento Estrategia de Seguimiento
+h2:pilotaje-del-cuestionario-y-capacitación Pilotaje del Cuestionario y Capacitación
+h2:planificación-y-ejecución-del-campo Planificación y Ejecución del Campo
+h2:supervisión-del-trabajo-de-campo Supervisión del Trabajo de Campo
+h2:incidencias-de-terreno-y-códigos-de-disposición-final-de-casos Incidencias de Terreno y Códigos de Disposición Final de Casos
+h2:aspectos-longitudinales-y-cuarta-ola-del-estudio Aspectos Longitudinales y Cuarta Ola del Estudio
+tab:atricion \\label{tab:atricionseg} Análisis de atrición muestra seguimiento según atributos claves
+tab:atricion \\label{tab:hogares}Análisis de atrición muestra refresco según atributos claves
+h1:acceso-y-uso-de-base-de-datos Acceso y Uso de Base de Datos
+h1:libro-de-códigos-base-de-datos-elsoc-ola-4 Libro de Códigos Base de Datos ELSOC Ola 4
+h2:variables-elsoc-ola-4 Variables ELSOC Ola 4
+h2:características-base-de-datos-elsoc-ola-4 Características Base de Datos ELSOC Ola 4
+

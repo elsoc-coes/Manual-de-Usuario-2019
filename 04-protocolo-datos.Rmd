@@ -1,0 +1,18 @@
+# Acceso y Uso de Base de Datos
+
+Las bases de datos ELSOC de las cuatro olas se encuentran disponibles en el repositorio de COES en https://dataverse.harvard.edu/dataverse/elsoc.
+
+Cualquier publicación que incluya para su realización el uso de la base de datos ELSOC (en cualquiera de sus versiones) debe citar la fuente de la siguiente forma:
+
+ <br> 
+ <center> Centro de Estudios de Conflicto y Cohesión Social (2021). *Estudio Longitudinal Social de Chile, Cuarta Ola (ELSOC_W04)*. [Archivo de datos]. Santiago, Chile: Centro de Estudios de Conflicto y Cohesión Social (COES). www.coes.cl </center>
+ <br> 
+
+Por último, en caso de que se desee citar el presente Manual de Usuario:
+
+ <br> 
+<center>Centro de Estudios de Conflicto y Cohesión Social (2021). *Manual de Usuario de Estudio Longitudinal Social de Chile, Cuarta Ola (2019). Corte Transversal.* Santiago, Chile: Centro de Estudios de Conflicto y Cohesión Social (COES). </center> 
+ <br> 
+ 
+En caso de que detecte problemas con la base de datos, desee plantear solicitudes y/o tenga dudas sobre aspectos no cubiertos por el presente Manual de Usuario, las cuales no puedan ser resueltas por otros medios, puede comunicarse con el Equipo de Encuestas COES al correo electrónico encuestacoes@gmail.com. El equipo procesará su solicitud y tratará de contestar en el más breve plazo.
+
